@@ -1,0 +1,43 @@
+name: testing_project
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.1.5 <4.0.0'
+
+dependencies:
+  cloud_firestore: ^4.12.2
+  firebase_auth: ^4.12.1
+  firebase_core: ^2.21.0
+  flutter:
+    sdk: flutter
+  uuid: ^4.2.1
+  camera: ^0.9.7+1
+  get_it: ^7.2.0
+  image_picker: ^0.8.9
+  flutter_svg: ^2.0.9
+  lottie: ^2.7.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+  cupertino_icons: ^1.0.2
+  email_validator: ^2.0.1
+  string_validator: ^0.3.0
+  path_provider: ^2.0.4
+  shared_preferences: ^2.0.8
+
+flutter:
+  uses-material-design: true
+  assets:
+   - assets/
+   - assets/breakfast/
+   - assets/description/
+   - assets/dessert/
+   - assets/dinner/
+   - assets/home_pic/
+   - assets/images/
+   - assets/lunch/
+   - animations/

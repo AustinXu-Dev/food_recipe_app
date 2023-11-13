@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "284091339508",
+    "project_id": "code-camp-6193f",
+    "storage_bucket": "code-camp-6193f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284091339508:android:440d6fc0f761a52359c4a1",
+        "android_client_info": {
+          "package_name": "com.example.testing_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnKEapy0BnfwJqFpL-jjm3dwVPkRdV7eg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
